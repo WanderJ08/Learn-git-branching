@@ -55,8 +55,7 @@
 
 - Pull Request: Básicamente un pull request es una petición para integrar nuestras propuestas o cambios de código a un proyecto. 
 
-# Nota
-*Si no ve las imagenes tiene que descargar el repositorio, es un error de github por asignarle las imagenes con los nombres de imagen1,2 y asi* 
-![foto1](/imagenes/imagen1.png)
-![foto1](/imagenes/imagen2.png)
+
+![foto1](/imagenes/Imagen1.png)
+![foto1](/imagenes/Imagen2.png)
 
